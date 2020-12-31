@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0bEuOTraJoyZQuJAawtSAtJbVjJU72f3axIGcN+cr8KJwUmnkPmDCM6MQ/T4Bx0yYIag5ut8jlDycV7B6UliA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeff\\source\\repos\\ClassLibrary1\\ClassLibrary1\\HelloWorldLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
